@@ -1,0 +1,24 @@
+{
+  "name": "datatables.net-lang",
+  "homepage": "https://github.com/nelson6e65/datatables.net-lang",
+  "authors": [
+    "Nelson Martell <nelson6e65-dev@yahoo.es>"
+  ],
+  "description": "DataTables internationalization files.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "datatables",
+    "json",
+    "jquery",
+    "i18n"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
