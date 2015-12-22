@@ -9,6 +9,15 @@ Language files for [DataTables](http://datatables.net) jQuery Plugin, based on [
 - Rename the resulting folder to `datatables.net-translations`.
 - Then move this folder into your assets directory.
 
+### Via bower
+You can install translations for your project with [Bower](http://bower.io):
+
+```bash
+bower install --save datatables.net-translations
+```
+
+>You can use a build tool, like [Gulp](http://gulpjs.com/) to publish `i18n` in your public directory, like other assets.
+
 
 ## Usage
 Just follow instructions in [DataTables manual](http://datatables.net/manual/i18n).
