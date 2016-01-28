@@ -1,7 +1,7 @@
 # DataTables Internationalization
 
 ## Description
-Language files for [DataTables](http://datatables.net) jQuery Plugin, based on [DataTables/Plugins](https://github.com/DataTables/Plugins), powered by [Transifex](https://www.transifex.com/projects/p/ci_translations/) Translation Platform..
+Language files for [DataTables](http://datatables.net) jQuery Plugin, based on [DataTables/Plugins](https://github.com/DataTables/Plugins), powered by [Transifex](https://www.transifex.com/nelson6e65/datatables-translations/) Translation Platform.
 
 ## Installing
 - Download the latest [release](https://github.com/nelson6e65/datatables.net-translations/releases).
