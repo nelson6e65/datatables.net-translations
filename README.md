@@ -4,12 +4,8 @@
 Language files for [DataTables](http://datatables.net) jQuery Plugin, based on [DataTables/Plugins](https://github.com/DataTables/Plugins), powered by [Transifex](https://www.transifex.com/nelson6e65/datatables-translations/) Translation Platform.
 
 ## Installing
-- Download the latest [release](https://github.com/nelson6e65/datatables.net-translations/releases).
-- Unzip that download.
-- Rename the resulting folder to `datatables.net-translations`.
-- Then move this folder into your assets directory.
 
-### Via bower
+### Bower
 You can install translations for your project with [Bower](http://bower.io):
 
 ```bash
@@ -17,6 +13,12 @@ bower install --save datatables.net-translations
 ```
 
 >You can use a build tool, like [Gulp](http://gulpjs.com/) to publish `locale` directory in your public directory, like other assets.
+
+### Manual
+- Download the latest [release](https://github.com/nelson6e65/datatables.net-translations/releases).
+- Unzip that download.
+- Rename the resulting folder to `datatables.net-translations`.
+- Then move this folder into your assets directory.
 
 
 ## Usage
