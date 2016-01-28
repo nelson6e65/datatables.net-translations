@@ -36,6 +36,6 @@ $('#example').DataTable( {
 ```
 
 ## Contributing
-Join the project in [Transifex](https://www.transifex.com/nelson6e65/datatables-internationalization/) and start to translate.
+Join the project in [Transifex](https://www.transifex.com/nelson6e65/datatables-translations/) and start to translate.
 
 >Note: If you are not registered yet, you can easily register via Github.
