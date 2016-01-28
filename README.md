@@ -1,7 +1,7 @@
 # DataTables Internationalization
 [![License](https://img.shields.io/bower/l/datatables.net-translations.svg)](LICENSE)
 [![Bower](https://img.shields.io/bower/v/datatables.net-translations.svg)](http://bower.io/search/?q=datatables.net-translations)
-[![GitHub commits](https://img.shields.io/github/commits-since/nelson6e65/datatables.net-translations/v0.1.0.svg)]()
+[![GitHub commits](https://img.shields.io/github/commits-since/nelson6e65/datatables.net-translations/v0.2.0.svg)]()
 
 
 ## Description
