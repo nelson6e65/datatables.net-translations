@@ -16,21 +16,21 @@ You can install translations for your project with [Bower](http://bower.io):
 bower install --save datatables.net-translations
 ```
 
->You can use a build tool, like [Gulp](http://gulpjs.com/) to publish `i18n` in your public directory, like other assets.
+>You can use a build tool, like [Gulp](http://gulpjs.com/) to publish languages directories in your public directory, like other assets.
 
 
 ## Usage
 Just follow instructions in [DataTables manual](http://datatables.net/manual/i18n).
 
 Translations files named following [ISO 639-1 code namming standard](http://www.loc.gov/standards/iso639-2/php/code_list.php) and using `.json` extension.
-So, for example, default Spanish language file is `default/es.json`.
+So, for example, default Spanish language file is `es/default.json`.
 
 That is the file you will use in the `language.url` option:
 
 ```js
 $('#example').DataTable( {
     language: {
-        url: '/assets/datatables.net-translations/default/es.json'
+        url: '/assets/datatables.net-translations/es/default.json'
     }
 } );
 ```
@@ -40,7 +40,7 @@ There is another alternative, using mostly icons, but requires [Font Awesome](ht
 ```js
 $('#example').DataTable( {
     language: {
-        url: '/assets/datatables.net-translations/iconic/es.json'
+        url: '/assets/datatables.net-translations/es/iconic.json'
     }
 } );
 ```
