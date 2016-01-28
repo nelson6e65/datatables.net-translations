@@ -6,3 +6,8 @@ type = KEYVALUEJSON
 source = default/en.json
 file_filter = default/<lang>.json
 source_lang = en
+
+[datatables-translations.icon-fa]
+source = icon-fa/en.json
+file_filter = icon-fa/<lang>.json
+source_lang = en
