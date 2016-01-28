@@ -22,15 +22,15 @@ bower install --save datatables.net-translations
 ## Usage
 Just follow instructions in [DataTables manual](http://datatables.net/manual/i18n).
 
-Translations files are located under `i18n` directory, named following [ISO 639-1 code namming standard](http://www.loc.gov/standards/iso639-2/php/code_list.php) and using `.json` extension.
-So, for example, Spanish language file is `i18n/es.json`.
+Translations files are located under `default` directory, named following [ISO 639-1 code namming standard](http://www.loc.gov/standards/iso639-2/php/code_list.php) and using `.json` extension.
+So, for example, Spanish language file is `default/es.json`.
 
 That is the file you will use in the `language.url` option:
 
 ```js
 $('#example').DataTable( {
     language: {
-        url: '/assets/datatables.net-translations/i18n/es.json'
+        url: '/assets/datatables.net-translations/default/es.json'
     }
 } );
 ```

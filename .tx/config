@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 type = KEYVALUEJSON
 
-[datatables-translations.i18n]
-source = i18n/en.json
-file_filter = i18n/<lang>.json
+[datatables-translations.default]
+source = default/en.json
+file_filter = default/<lang>.json
 source_lang = en
