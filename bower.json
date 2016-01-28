@@ -5,13 +5,17 @@
     "Nelson Martell <nelson6e65-dev@yahoo.es>"
   ],
   "description": "DataTables internationalization files.",
-  "main": "",
+  "main": "locale/en/default.json",
   "moduleType": [],
   "keywords": [
     "datatables",
     "json",
     "jquery",
-    "i18n"
+    "i18n",
+    "font awesome",
+    "translation",
+    "localization",
+    "transifex"
   ],
   "license": "MIT",
   "ignore": [
