@@ -1,4 +1,8 @@
 # DataTables Internationalization
+[![License](https://img.shields.io/bower/l/datatables.net-translations.svg)](LICENSE)
+[![Bower](https://img.shields.io/bower/v/datatables.net-translations.svg)](http://bower.io/search/?q=datatables.net-translations)
+[![GitHub commits](https://img.shields.io/github/commits-since/nelson6e65/datatables.net-translations/v0.1.0.svg)]()
+
 
 ## Description
 Language files for [DataTables](http://datatables.net) jQuery Plugin, based on [DataTables/Plugins](https://github.com/DataTables/Plugins), powered by [Transifex](https://www.transifex.com/nelson6e65/datatables-translations/) Translation Platform.
