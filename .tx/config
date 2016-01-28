@@ -4,10 +4,10 @@ type = KEYVALUEJSON
 
 [datatables-translations.default]
 source = en/default.json
-file_filter = <lang>/default.json
+file_filter = locale/<lang>/default.json
 source_lang = en
 
 [datatables-translations.iconic]
 source = en/iconic.json
-file_filter = <lang>/iconic.json
+file_filter = locale/<lang>/iconic.json
 source_lang = en
