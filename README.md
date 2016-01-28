@@ -40,7 +40,7 @@ There is another alternative, using mostly icons, but requires [Font Awesome](ht
 ```js
 $('#example').DataTable( {
     language: {
-        url: '/assets/datatables.net-translations/icon-fa/es.json'
+        url: '/assets/datatables.net-translations/iconic/es.json'
     }
 } );
 ```

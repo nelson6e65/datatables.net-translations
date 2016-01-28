@@ -7,7 +7,7 @@ source = default/en.json
 file_filter = default/<lang>.json
 source_lang = en
 
-[datatables-translations.icon-fa]
-source = icon-fa/en.json
-file_filter = icon-fa/<lang>.json
+[datatables-translations.iconic]
+source = iconic/en.json
+file_filter = iconic/<lang>.json
 source_lang = en
