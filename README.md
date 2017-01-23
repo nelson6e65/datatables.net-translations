@@ -51,6 +51,18 @@ $('#example').DataTable( {
 } );
 ```
 
+#### Use as default for all tables
+
+You can enable default language for all datatables by using [DataTables global defaults](https://datatables.net/manual/options#Setting-defaults) on initialization:
+
+```js
+$.extend(true, $.fn.dataTable.defaults, {
+	language: {
+		url: "assets/datatables.net-translations/locale/es/iconic.json"
+	}
+});
+```
+
 ## Contributing
 
 ### Translate
